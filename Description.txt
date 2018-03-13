@@ -1,0 +1,1 @@
+Git is distributed version control system mady by the same team that brought us the linux operating system. It is free and Open source 
