@@ -1,1 +1,1 @@
-Git is distributed version control system mady by the same team that brought us the linux operating system. It is free and Open source 
+Git is distributed version control system mady by the same team that brought us the linux operating system. It is free and Open source system. It's benefits are security and safety, allows team work and has facility for version control.
